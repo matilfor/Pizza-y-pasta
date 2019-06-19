@@ -1,0 +1,3 @@
+C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\PizzaYPasta\obj\Debug\PizzaYPasta.exe
+C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\PizzaYPasta\obj\Debug\PizzaYPasta.xml
+C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\PizzaYPasta\obj\Debug\PizzaYPasta.pdb

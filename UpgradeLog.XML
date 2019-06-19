@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PizzaYPasta">
+</Property><Property Name="Solution File" Value="C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\PizzaYPasta.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\PizzaYPasta.suo">
+</Property><Property Name="Date" Value="miércoles, 13 de septiembre de 2017">
+</Property><Property Name="Time" Value="18:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PizzaYPasta.sln" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PizzaYPasta.suo" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta.suo">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\PizzaYPasta.vbproj" Description="Project file successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\PizzaYPasta.vbproj">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\Cliente.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\Cliente.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\ListaDePrecios.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\ListaDePrecios.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\Principal.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\Principal.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\Principal.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\Principal.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Application.myapp" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Settings.settings" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\Principal.resx" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\Principal.resx">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\My Project\Resources.resx" Description="File successfully backed up as C:\Users\Nico\Desktop\Proyectos VB\PizzaYPasta\Backup\PizzaYPasta\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\PizzaYPasta.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PizzaYPasta" Source="PizzaYPasta\PizzaYPasta.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PizzaYPasta.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PizzaYPasta.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PizzaYPasta" Source="PizzaYPasta\PizzaYPasta.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

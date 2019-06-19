@@ -1,0 +1,10 @@
+bin\Debug\PizzaYPasta.exe
+bin\Debug\PizzaYPasta.pdb
+bin\Debug\PizzaYPasta.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PizzaYPasta.Principal.resources
+obj\Debug\PizzaYPasta.Resources.resources
+obj\Debug\PizzaYPasta.vbproj.GenerateResource.Cache
+obj\Debug\PizzaYPasta.exe
+obj\Debug\PizzaYPasta.xml
+obj\Debug\PizzaYPasta.pdb
